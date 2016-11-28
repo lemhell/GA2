@@ -1,0 +1,148 @@
+{
+  "enemies": [
+    {
+      "number": 1,
+      "x": 29,
+      "y": 5,
+      "type": "carrier"
+    },
+    {
+      "number": 2,
+      "x": 36,
+      "y": 3,
+      "type": "carrier"
+    },
+    {
+      "number": 3,
+      "x": 50,
+      "y": 8,
+      "type": "carrier"
+    },
+    {
+      "number": 4,
+      "x": 61,
+      "y": 3,
+      "type": "tank"
+    },
+    {
+      "number": 5,
+      "x": 68,
+      "y": 2,
+      "type": "tank"
+    },
+    {
+      "number": 6,
+      "x": 74,
+      "y": 5,
+      "type": "tank"
+    },
+    {
+      "number": 7,
+      "x": 110,
+      "y": 4,
+      "type": "tank"
+    },
+    {
+      "number": 8,
+      "x": 118,
+      "y": 3,
+      "type": "tank"
+    },
+    {
+      "number": 9,
+      "x": 127,
+      "y": 3,
+      "type": "carrier"
+    }
+  ],
+
+  "obstacles": [
+    {
+      "number": 1,
+      "x": 44,
+      "y": 52,
+      "radius": 1,
+      "type": "round"
+    },
+    {
+      "number": 2,
+      "x": 59,
+      "y": 51,
+      "radius": 6,
+      "type": "round"
+    },
+    {
+      "number": 3,
+      "x": 70,
+      "y": 53,
+      "radius": 2,
+      "type": "round"
+    },
+    {
+      "number": 4,
+      "x": 94,
+      "y": 51,
+      "radius": 1,
+      "type": "round"
+    },
+    {
+      "number": 5,
+      "x": 98,
+      "y": 53,
+      "width": 5,
+      "height": 4,
+      "type": "square"
+    },
+    {
+      "number": 6,
+      "x": 106,
+      "y": 51,
+      "radius": 1,
+      "type": "round"
+    },
+    {
+      "number": 7,
+      "x": 114,
+      "y": 43,
+      "radius": 2,
+      "type": "round"
+    },
+    {
+      "number": 8,
+      "x": 118,
+      "y": 41,
+      "width": 5,
+      "height": 2,
+      "type": "square"
+    },
+    {
+      "number": 9,
+      "x": 124,
+      "y": 40,
+      "radius": 1,
+      "type": "round"
+    }
+  ],
+
+  "turrets": [
+    {
+      "number": 1,
+      "x": 30,
+      "y": 90,
+      "type": "turret"
+    },
+    {
+      "number": 2,
+      "x": 80,
+      "y": 95,
+      "type": "turret"
+    },
+    {
+      "number": 3,
+      "x": 123,
+      "y": 89,
+      "type": "turret"
+    }
+  ]
+
+}
